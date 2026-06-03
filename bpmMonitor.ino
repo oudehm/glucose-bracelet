@@ -1,5 +1,5 @@
 /**
- * hrv_max30102.ino
+ * bpmMonitor.ino
  * 
  * Reads raw PPG (photoplethysmography) data from a MAX30102 pulse oximeter
  * sensor and computes real-time heart rate (BPM) and HRV (RMSSD).
